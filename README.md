@@ -1,2 +1,2 @@
-# gft_aula_javascript
-Introdução ao JavaScript - Bootcamp GFT - Digital Innovation One
+# Repositório para aulas do curso de JavaScript para o Bootcamp GFT - Digital Innovation One 
+Objetivo: Introdução ao JavaScript. 
